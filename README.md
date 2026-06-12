@@ -1,22 +1,25 @@
 # Hi, I'm Chandrahaas
 
-Computer Science student building practical AI and workflow automation tools with a focus on **GenAI, backend systems, and enterprise-style productivity software**.
+Computer Science student building practical AI and workflow automation tools with a focus on **GenAI, Python/JavaScript apps, and enterprise-style productivity software**.
 
-I like building projects that turn messy real-world inputs into structured, useful systems: workplace notes into decision records, identity requests into auditable workflows, weather data into interactive interfaces, and operational data into cleaner dashboards.
+I build with a mix of hands-on coding, AI-assisted development, and strong product thinking. My focus is understanding what the project should do, why the workflow matters, and how the pieces fit together.
+
+I like projects that turn messy real-world inputs into structured, useful systems: workplace notes into decision records, identity requests into auditable workflows, weather data into interactive interfaces, and operational data into cleaner dashboards.
 
 ## Current Focus
 
 I'm building around one main direction:
 
-> **GenAI + Backend Engineering + Enterprise Workflow Automation**
+> **GenAI apps + workflow automation + practical product thinking**
 
 My current work focuses on:
 
 - GenAI applications that extract structure from messy text, files, chats, emails, and notes
-- Python backends with clear business logic and testable helper modules
+- Python and JavaScript applications with clear business logic
 - Human-in-the-loop review workflows for AI-generated outputs
 - Local-first and desktop-style app experiences
 - Workflow automation, audit trails, approvals, and searchable operational memory
+- Learning how to structure larger projects with cleaner modules, tests, and UI/UX
 
 ## Featured Projects
 
@@ -71,7 +74,7 @@ Focus areas:
 
 Fork of `winpods`, a Rust desktop app that brings AirPods integration to Windows.
 
-I'm using this fork to explore desktop app structure, Rust-based Windows tooling, Bluetooth-device UX, tray workflows, and lightweight utility design.
+I'm using this fork to explore desktop app structure, Windows utility design, Bluetooth-device UX, tray workflows, and how a Rust-based desktop project is organized.
 
 Original project focus:
 
@@ -84,16 +87,17 @@ Original project focus:
 
 ## Tech Stack
 
-**Languages:** Python, JavaScript, Rust, SQL  
-**Backend:** Flask, FastAPI, local JSON storage, API integrations  
+**Main languages:** Python, JavaScript  
+**Currently learning/exploring through projects:** Rust project structure, SQL concepts, desktop app packaging  
+**Backend:** Flask, FastAPI concepts, local JSON storage, API integrations  
 **AI:** Gemini API, structured extraction, decision intelligence, prompt design  
 **Frontend:** HTML, CSS, JavaScript, Three.js, dashboard UI  
 **Data:** pandas, openpyxl, CSV/Excel workflows  
-**Tools:** Git, GitHub, virtual environments, unit testing, local desktop wrappers
+**Tools:** Git, GitHub, virtual environments, unit testing basics, local desktop wrappers
 
 ## What I'm Building Toward
 
-I want my work to show that I can build useful AI-backed software, not just small experiments.
+I want my work to show that I can think clearly about useful AI-backed software, not just generate small experiments.
 
 My current direction is building systems for:
 
@@ -104,3 +108,5 @@ My current direction is building systems for:
 - practical human review around AI outputs
 
 The common thread across my projects is turning scattered information into something structured, searchable, and useful.
+
+I'm still growing as an engineer, but I care a lot about understanding the problem, shaping the workflow, and building projects that make sense end-to-end.
