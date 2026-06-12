@@ -1,4 +1,4 @@
-# Hi, I'm Chandrahaas
+# Welcome to my World, Chandrahaas
 
 Computer Science student building practical AI and workflow automation tools with a focus on **GenAI, Python/JavaScript apps, and enterprise-style productivity software**.
 
