@@ -1,6 +1,6 @@
 # Welcome to my World, Chandrahaas
 
-Computer Science student building practical AI and workflow automation tools with a focus on **GenAI, Python/JavaScript apps, and enterprise-style productivity software**.
+Computer Science student building practical AI and workflow automation tools focused on **GenAI apps, decision intelligence, identity workflows, and data-rich dashboards**.
 
 I build with a mix of hands-on coding, AI-assisted development, and strong product thinking. My focus is understanding what the project should do, why the workflow matters, and how the pieces fit together.
 
@@ -23,6 +23,8 @@ My current work focuses on:
 
 ## Featured Projects
 
+If you're reviewing one project first, start with **DecisionVault AI**. It shows my current direction best: GenAI extraction, review workflows, local storage, testing, and practical product thinking.
+
 ### [DecisionVault AI](https://github.com/chandra23225/DecisionVault_AI)
 
 GenAI-powered decision memory workspace that converts messy workplace communication into structured, reviewable decision records.
@@ -31,11 +33,13 @@ Recent updates:
 
 - Migrated from a Streamlit-only app to a custom **Flask + HTML/CSS** interface
 - Added a desktop app launcher using `pywebview`
-- Added structured Ask results with direct answers, key points, supporting records, information gaps, and next steps
-- Added editable decision review workflows before saving records
-- Added backend quality scoring for record completeness
-- Added local JSON vault storage, CSV/Excel exports, upload validation, and duplicate prevention
-- Added unit tests for validation, storage, confidence scoring, extraction helpers, and UI view-model logic
+- Added smarter Ask behavior that uses reviewed records first and raw source text as backup
+- Added structured Ask results with direct answers, key points, supporting records, source references, information gaps, and next steps
+- Added editable review workflows before saving records, including save-ready and save-all flows
+- Added Vault search, filtering, statuses, inline editing, safer delete/clear confirmations, CSV/Excel exports, and duplicate prevention
+- Improved review UX with friendlier missing-field handling, AI confidence, completeness signals, and clearer user guidance
+- Added Gemini overload retry handling and cleaner user-facing errors
+- Added unit tests for validation, storage, confidence scoring, extraction helpers, Flask routes, and UI view-model logic
 
 ### [IdentityFlow](https://github.com/chandra23225/IdentityFlow)
 
